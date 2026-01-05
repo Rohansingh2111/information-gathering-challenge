@@ -47,3 +47,10 @@ ethical hacking and penetration testing.
 ---
 
 ## 📁 Repository Structure
+information-gathering-challenge/
+├── README.md
+├── Report/
+├── Screenshots/
+└── Tools_Commands/
+
+
