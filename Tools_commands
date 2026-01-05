@@ -1,0 +1,9 @@
+whois inlighntech.com
+dig +short inlighntech.com
+sublist3r -d inlighntech.com
+amass enum -passive -d inlighntech.com
+subfinder -d inlighntech.com
+whatweb inlighntech.com
+dirb https://www.inlighntech.com
+sudo nmap -sS -Pn -p 22,80,443,8080 -sV 185.151.30.222
+theHarvester -d inlighntech.com -b all
